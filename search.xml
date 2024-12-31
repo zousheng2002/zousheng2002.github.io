@@ -19,30 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test-draft01</title>
-    <url>/2024/12/17/test-draft01/</url>
-    <content><![CDATA[<h3 id="目前已安装的插件、功能及安装命令："><a href="#目前已安装的插件、功能及安装命令：" class="headerlink" title="目前已安装的插件、功能及安装命令："></a>目前已安装的插件、功能及安装命令：</h3><h4 id="根据子幽博客教程安装"><a href="#根据子幽博客教程安装" class="headerlink" title="根据子幽博客教程安装"></a>根据<code>子幽博客</code>教程安装</h4><p><code>hexo-symbols-count-time</code> NexT主题阅读时长和字数统计</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-symbols-count-time --save
-</code></pre></div></figure>
-<p><code>hexo-next-darkmode</code> NexT主题暗黑模式</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-next-darkmode --save
-</code></pre></div></figure>
-<p><code>hexo-generator-feed</code> NexT主题RSS订阅</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-feed --save
-</code></pre></div></figure>
-<p><code>hexo-tag-cloud</code> NexT标签云</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-tag-cloud --save
-</code></pre></div></figure>
-<p><code>hexo-generator-searchdb</code> NexT搜索功能</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-searchdb --save
-</code></pre></div></figure>
-]]></content>
-      <tags>
-        <tag>test</tag>
-        <tag>draft</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>test-post01</title>
     <url>/2024/10/18/test-post01/</url>
     <content><![CDATA[
@@ -86,6 +62,30 @@
         <tag>test</tag>
         <tag>yuri</tag>
         <tag>post</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test-draft01</title>
+    <url>/2024/12/17/test-draft01/</url>
+    <content><![CDATA[<h3 id="目前已安装的插件、功能及安装命令："><a href="#目前已安装的插件、功能及安装命令：" class="headerlink" title="目前已安装的插件、功能及安装命令："></a>目前已安装的插件、功能及安装命令：</h3><h4 id="根据子幽博客教程安装"><a href="#根据子幽博客教程安装" class="headerlink" title="根据子幽博客教程安装"></a>根据<code>子幽博客</code>教程安装</h4><p><code>hexo-symbols-count-time</code> NexT主题阅读时长和字数统计</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-symbols-count-time --save
+</code></pre></div></figure>
+<p><code>hexo-next-darkmode</code> NexT主题暗黑模式</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-next-darkmode --save
+</code></pre></div></figure>
+<p><code>hexo-generator-feed</code> NexT主题RSS订阅</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-feed --save
+</code></pre></div></figure>
+<p><code>hexo-tag-cloud</code> NexT标签云</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-tag-cloud --save
+</code></pre></div></figure>
+<p><code>hexo-generator-searchdb</code> NexT搜索功能</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-searchdb --save
+</code></pre></div></figure>
+]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>draft</tag>
       </tags>
   </entry>
 </search>
