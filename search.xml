@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello 2025</title>
-    <url>/2025/01/01/Hello-2025/</url>
-    <content><![CDATA[<p>[toc]</p>
-<p>《借太白诗言志》</p>
-<p>人生得意须尽欢，千金散尽还复来。</p>
-<p>长风破浪会有时，我辈岂是蓬蒿人！</p>
-<h2 id="再见，2024；你好，2025。"><a href="#再见，2024；你好，2025。" class="headerlink" title="再见，2024；你好，2025。"></a><strong>再见，2024；你好，2025。</strong></h2><p><em>Farewell, 2024; Hello, 2025.</em></p>
-<hr>
-<p>想要00:00:00准时发布的，看报错以为是我仓库和密钥的问题，重新生成添加未能解决，发现是该死的网络死活连不到GitHub，无奈只好修改，折腾到现在1:46:49。</p>
-<p><del>手动修改文章发布时间，就当是无事发生了。</del></p>
+    <title>test-draft01</title>
+    <url>/2024/12/17/test-draft01/</url>
+    <content><![CDATA[<h3 id="目前已安装的插件、功能及安装命令："><a href="#目前已安装的插件、功能及安装命令：" class="headerlink" title="目前已安装的插件、功能及安装命令："></a>目前已安装的插件、功能及安装命令：</h3><h4 id="根据子幽博客教程安装"><a href="#根据子幽博客教程安装" class="headerlink" title="根据子幽博客教程安装"></a>根据<code>子幽博客</code>教程安装</h4><p><code>hexo-symbols-count-time</code> NexT主题阅读时长和字数统计</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-symbols-count-time --save
+</code></pre></div></figure>
+<p><code>hexo-next-darkmode</code> NexT主题暗黑模式</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-next-darkmode --save
+</code></pre></div></figure>
+<p><code>hexo-generator-feed</code> NexT主题RSS订阅</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-feed --save
+</code></pre></div></figure>
+<p><code>hexo-tag-cloud</code> NexT标签云</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-tag-cloud --save
+</code></pre></div></figure>
+<p><code>hexo-generator-searchdb</code> NexT搜索功能</p>
+<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-searchdb --save
+</code></pre></div></figure>
 ]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>draft</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -29,6 +40,18 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello 2025</title>
+    <url>/2025/01/01/Hello-2025/</url>
+    <content><![CDATA[<p>《借太白诗言志》</p>
+<p>人生得意须尽欢，千金散尽还复来。</p>
+<p>长风破浪会有时，我辈岂是蓬蒿人！</p>
+<h2 id="再见，2024；你好，2025。"><a href="#再见，2024；你好，2025。" class="headerlink" title="再见，2024；你好，2025。"></a><strong>再见，2024；你好，2025。</strong></h2><p><em>Farewell, 2024; Hello, 2025.</em></p>
+<hr>
+<p>想要00:00:00准时发布的，看报错以为是我仓库和密钥的问题，重新生成添加未能解决，发现是该死的网络死活连不到GitHub，无奈只好修改，折腾到现在1:46:49。</p>
+<p><del>手动修改文章发布时间，就当是无事发生了。</del></p>
 ]]></content>
   </entry>
   <entry>
@@ -75,30 +98,6 @@
         <tag>test</tag>
         <tag>yuri</tag>
         <tag>post</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test-draft01</title>
-    <url>/2024/12/17/test-draft01/</url>
-    <content><![CDATA[<h3 id="目前已安装的插件、功能及安装命令："><a href="#目前已安装的插件、功能及安装命令：" class="headerlink" title="目前已安装的插件、功能及安装命令："></a>目前已安装的插件、功能及安装命令：</h3><h4 id="根据子幽博客教程安装"><a href="#根据子幽博客教程安装" class="headerlink" title="根据子幽博客教程安装"></a>根据<code>子幽博客</code>教程安装</h4><p><code>hexo-symbols-count-time</code> NexT主题阅读时长和字数统计</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-symbols-count-time --save
-</code></pre></div></figure>
-<p><code>hexo-next-darkmode</code> NexT主题暗黑模式</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-next-darkmode --save
-</code></pre></div></figure>
-<p><code>hexo-generator-feed</code> NexT主题RSS订阅</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-feed --save
-</code></pre></div></figure>
-<p><code>hexo-tag-cloud</code> NexT标签云</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-tag-cloud --save
-</code></pre></div></figure>
-<p><code>hexo-generator-searchdb</code> NexT搜索功能</p>
-<figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-searchdb --save
-</code></pre></div></figure>
-]]></content>
-      <tags>
-        <tag>test</tag>
-        <tag>draft</tag>
       </tags>
   </entry>
 </search>
