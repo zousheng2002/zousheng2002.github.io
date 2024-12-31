@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zou&#39;s Blog</title>
+  
+  <subtitle>青衫白马，仗剑天涯</subtitle>
+  <link href="https://zousheng2002.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zousheng2002.github.io/"/>
+  <updated>2024-12-18T07:46:10.556Z</updated>
+  <id>https://zousheng2002.github.io/</id>
+  
+  <author>
+    <name>zousheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test-draft01</title>
+    <link href="https://zousheng2002.github.io/2024/12/17/test-draft01/"/>
+    <id>https://zousheng2002.github.io/2024/12/17/test-draft01/</id>
+    <published>2024-12-17T09:54:47.000Z</published>
+    <updated>2024-12-18T07:46:10.556Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="目前已安装的插件、功能及安装命令："><a href="#目前已安装的插件、功能及安装命令：" class="headerlink" title="目前已安装的插件、功能及安装命令："></a>目前已安装的插件、功能及安装命令：</h3><h4 id="根据子幽博客教程安装"><a href="#根据子幽博客教程安装" class="headerlink" title="根据子幽博客教程安装"></a>根据<code>子幽博客</code>教程安装</h4><p><code>hexo-symbols-count-time</code> NexT主题阅读时长和字数统计</p><figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-symbols-count-time --save</code></pre></div></figure><p><code>hexo-next-darkmode</code> NexT主题暗黑模式</p><figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-next-darkmode --save</code></pre></div></figure><p><code>hexo-generator-feed</code> NexT主题RSS订阅</p><figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-feed --save</code></pre></div></figure><p><code>hexo-tag-cloud</code> NexT标签云</p><figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-tag-cloud --save</code></pre></div></figure><p><code>hexo-generator-searchdb</code> NexT搜索功能</p><figure><div class="code-wrapper"><pre class="language-none"><code class="language-none">npm install hexo-generator-searchdb --save</code></pre></div></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;目前已安装的插件、功能及安装命令：&quot;&gt;&lt;a href=&quot;#目前已安装的插件、功能及安装命令：&quot; class=&quot;headerlink&quot; title=&quot;目前已安装的插件、功能及安装命令：&quot;&gt;&lt;/a&gt;目前已安装的插件、功能及安装命令：&lt;/h3&gt;&lt;h4 id=&quot;根据子幽博</summary>
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://zousheng2002.github.io/tags/test/"/>
+    
+    <category term="draft" scheme="https://zousheng2002.github.io/tags/draft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test-post01</title>
+    <link href="https://zousheng2002.github.io/2024/10/18/test-post01/"/>
+    <id>https://zousheng2002.github.io/2024/10/18/test-post01/</id>
+    <published>2024-10-18T02:55:49.000Z</published>
+    <updated>2024-12-31T14:21:15.144Z</updated>
+    
+    <content type="html"><![CDATA[    <div class="fold">      <div class="fold-title fold-default collapsed" data-toggle="collapse" href="#collapse-577d7861" role="button" aria-expanded="false" aria-controls="collapse-577d7861">        <div class="fold-arrow">▶</div>滕王阁序      </div>      <div class="fold-collapse collapse" id="collapse-577d7861">        <div class="fold-content">          <h3 id="滕王阁序"><a href="#滕王阁序" class="headerlink" title="滕王阁序"></a>滕王阁序</h3><p>豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区；童子何知，躬逢胜饯。</p><p>时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿。临帝子之长洲，得天人之旧馆。层峦耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，列冈峦之体势。</p><p><img src="/posts_images/20241207.jpg" alt="神无月的巫女" title="千姬永恒"></p><p><img src="/posts_images/20241207.jpg" alt="神无月的巫女02"></p><p>披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨，雁阵惊寒，声断衡阳之浦。</p><p>遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？</p><p>嗟乎！时运不齐，命途多舛。冯唐易老，李广难封。屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！</p><p>勃，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？</p><p>呜呼！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔。</p><p>滕王高阁临江渚，佩玉鸣鸾罢歌舞。<br>画栋朝飞南浦云，珠帘暮卷西山雨。<br>闲云潭影日悠悠，物换星移几度秋。<br>阁中帝子今何在？槛外长江空自流。</p>        </div>      </div>    </div><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></div><div class="group-image-wrap"><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></div><div class="group-image-wrap"><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></div><div class="group-image-wrap"><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></div><div class="group-image-wrap"><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></div></div></div><p><img src="/posts_images/20241207.jpg" alt="神无月的巫女03" title="懒加载测试"></p><h3 id="我亦好歌亦好酒"><a href="#我亦好歌亦好酒" class="headerlink" title="我亦好歌亦好酒"></a>我亦好歌亦好酒</h3><p>我亦好歌亦好酒，唱与佳人饮与友。歌宜关西铜绰板，酒当直进十八斗。</p><p>摇摆长街笑流云，我本长安羁旅人。从楼参差迷归路，行者匆匆谁与群？</p><p>幸有作文与谈诗，寥落情怀有君知。负气登楼狂步韵，每被游人笑双痴。</p><p>幸有浩然共蹴鞠，轻拨慢扣自欢愉。七月流火无眠夜，同向荧屏做唏嘘。</p><p>幸有彩云喜香山，兰裳桂冠共游仙。说来红尘多趣事，笑声惊动九重天。</p><p>幸有晓艳能操琴，玉葱手指石榴裙。止如高山流如水，流水溯洄桃花林。</p><p>红衣佳人白衣友，朝与同歌暮同酒。世人谓我恋长安，其实只恋长安某。</p><h3 id="归去来兮辞并序"><a href="#归去来兮辞并序" class="headerlink" title="归去来兮辞并序"></a>归去来兮辞并序</h3><p>余家贫，耕植不足以自给。幼稚盈室，瓶无储粟，生生所资，未见其术。亲故多劝余为长吏，脱然有怀，求之靡途。会有四方之事，诸侯以惠爱为德，家叔以余贫苦，遂见用于小邑。于时风波未静，心惮远役，彭泽去家百里，公田之利，足以为酒。故便求之。及少日，眷然有归欤之情。何则？质性自然，非矫厉所得。饥冻虽切，违己交病。尝从人事，皆口腹自役。于是怅然慷慨，深愧平生之志。犹望一稔，当敛裳宵逝。寻程氏妹丧于武昌，情在骏奔，自免去职。仲秋至冬，在官八十余日。因事顺心，命篇曰《归去来兮》。乙巳岁十一月也。</p><p>归去来兮，田园将芜胡不归？既自以心为形役，奚惆怅而独悲？悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。舟遥遥以轻飏，风飘飘而吹衣。问征夫以前路，恨晨光之熹微。</p><p>乃瞻衡宇，载欣载奔。僮仆欢迎，稚子候门。三径就荒，松菊犹存。携幼入室，有酒盈樽。引壶觞以自酌，眄庭柯以怡颜。倚南窗以寄傲，审容膝之易安。园日涉以成趣，门虽设而常关。策扶老以流憩，时矫首而遐观。云无心以出岫，鸟倦飞而知还。景翳翳以将入，抚孤松而盘桓。</p><p>归去来兮，请息交以绝游。世与我而相违，复驾言兮焉求？悦亲戚之情话，乐琴书以消忧。农人告余以春及，将有事于西畴。或命巾车，或棹孤舟。既窈窕以寻壑，亦崎岖而经丘。木欣欣以向荣，泉涓涓而始流。善万物之得时，感吾生之行休。</p><p>已矣乎！寓形宇内复几时？曷不委心任去留？胡为乎遑遑欲何之？富贵非吾愿，帝乡不可期。怀良辰以孤往，或植杖而耘耔。登东皋以舒啸，临清流而赋诗。聊乘化以归尽，乐夫天命复奚疑！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+    &lt;div class=&quot;fold&quot;&gt;
+      &lt;div class=&quot;fold-title fold-default collapsed&quot; data-toggle=&quot;collapse&quot; href=&quot;#collapse-577d7861&quot; role=&quot;button&quot; </summary>
+      
+    
+    
+    
+    <category term="百合" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/"/>
+    
+    <category term="动漫" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="姬宫千歌音" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/%E5%8A%A8%E6%BC%AB/%E5%A7%AC%E5%AE%AB%E5%8D%83%E6%AD%8C%E9%9F%B3/"/>
+    
+    <category term="来栖川姬子" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/%E5%8A%A8%E6%BC%AB/%E6%9D%A5%E6%A0%96%E5%B7%9D%E5%A7%AC%E5%AD%90/"/>
+    
+    <category term="漫画" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/%E6%BC%AB%E7%94%BB/"/>
+    
+    <category term="小说" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="游戏" scheme="https://zousheng2002.github.io/categories/%E7%99%BE%E5%90%88/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="test" scheme="https://zousheng2002.github.io/tags/test/"/>
+    
+    <category term="yuri" scheme="https://zousheng2002.github.io/tags/yuri/"/>
+    
+    <category term="post" scheme="https://zousheng2002.github.io/tags/post/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zousheng2002.github.io/2024/10/18/hello-world/"/>
+    <id>https://zousheng2002.github.io/2024/10/18/hello-world/</id>
+    <published>2024-10-18T02:50:55.434Z</published>
+    <updated>2024-10-18T02:50:55.434Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
